@@ -1,4 +1,9 @@
-### Hi there 👋
+### Olá, eu sou Bruno Vinicius do Nascimento Vasconcelos 👋
+
+#### Sobre mim
+
+- Formado em Direito pelo Centro Universitário de João Pessoa - UNIPÊ.
+- Cursando Análise e Desenvolvimento de Sistemas no IFPB, campus de Cajazeiras.
 
 <!--
 **bvasconcelos710/bvasconcelos710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
