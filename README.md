@@ -1,21 +1,17 @@
-### Olá, eu sou Bruno Vinicius do Nascimento Vasconcelos 👋
+### Olá, eu sou Bruno Vinicius do Nascimento Vasconcelos 👋 👨‍🎓
 
 #### Sobre mim
 
-- Formado em Direito pelo Centro Universitário de João Pessoa - UNIPÊ.
-- Cursando Análise e Desenvolvimento de Sistemas no IFPB, campus de Cajazeiras.
+📌 Formado em Direito pelo Centro Universitário de João Pessoa - UNIPÊ.
 
-<!--
-**bvasconcelos710/bvasconcelos710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 Cursando Análise e Desenvolvimento de Sistemas no IFPB, campus de Cajazeiras.
 
-Here are some ideas to get you started:
+📌 Áreas de interesse: Python e Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Redes Sociais:
+
+<div>
+   <a href="https://www.youtube.com/channel/UCU69_wBFIdqrgx36klpd2pg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/brunovasconcelosz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-vasconcelos-974a601b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
