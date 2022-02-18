@@ -2,11 +2,10 @@
 
 #### Sobre mim
 
-📌 Formado em Direito pelo Centro Universitário de João Pessoa - UNIPÊ.
 
 📌 Cursando Análise e Desenvolvimento de Sistemas no IFPB, campus de Cajazeiras.
 
-📌 Áreas de interesse: Python e Javascript
+📌 Áreas de interesse: HTML, Python e Javascript
 
 ### Redes Sociais:
 
