@@ -1,11 +1,11 @@
-### Olá, eu sou Bruno Vinicius do Nascimento Vasconcelos 👋 👨‍🎓
+### Olá, eu sou Bruno! 👋 👨‍🎓
 
 #### Sobre mim
 
 
 📌 Cursando Análise e Desenvolvimento de Sistemas no IFPB, campus de Cajazeiras.
 
-📌 Áreas de interesse: HTML, Python e Javascript
+📌 Áreas de interesse: HTML, CSS, Javascript e Python
 
 ### Redes Sociais:
 
