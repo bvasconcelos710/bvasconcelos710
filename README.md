@@ -1,11 +1,13 @@
-### Olá, eu sou Bruno! 👋 👨‍🎓
+### Olá, eu sou o Bruno! 👋 👨‍🎓
 
 #### Sobre mim
 
 
-📌 Cursando Análise e Desenvolvimento de Sistemas no IFPB, campus de Cajazeiras.
+📌 Atualmente estou cursando o 3º período de Análise e Desenvolvimento de Sistemas no IFPB, campus de Cajazeiras.
 
-📌 Áreas de interesse: HTML, CSS, Javascript e Python
+📌 Áreas de interesse: HTML, CSS, Javascript e Java
+
+📌 Estudando no momento: Node.js, Express, Banco de dados
 
 ### Redes Sociais:
 
