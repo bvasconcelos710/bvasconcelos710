@@ -3,7 +3,7 @@
 #### Sobre mim
 
 
-📌 Atualmente estou cursando o 3º período de Análise e Desenvolvimento de Sistemas no IFPB, campus de Cajazeiras.
+📌 Atualmente estou cursando o 4º período de Análise e Desenvolvimento de Sistemas no IFPB, campus de Cajazeiras.
 
 📌 Áreas de interesse: HTML, CSS, Javascript e Java
 
