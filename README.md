@@ -16,8 +16,9 @@
 <div>          
 <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
 
-<img align="center" alt="Bruno-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;">
+<img align="center" alt="Bruno-Js" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;">
 </div>
 
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvasconcelos710&show_icons=true&theme=radical)
