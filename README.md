@@ -10,7 +10,6 @@
 📌 Estudando no momento: Node.js, Express, Banco de dados
 
 ## Tecnologias utilizadas
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           
           
            
