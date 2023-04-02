@@ -13,16 +13,18 @@
 📌 Estudando no momento: Java, Spring Boot, Node.js, Express, Bancos de dados (Postgree, MySQL, MongoDB, etc)
 
 ## Tecnologias utilizadas     
-<div>          
+<div>    
+<img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;">
+  
+ <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;">  
+  
 <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+  
+<img align="center" alt="Bruno-node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" style="max-width: 100%;">
 
 <img align="center" alt="Bruno-Java" height="35" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;">
- 
- <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" style="max-width: 100%;">
   
- <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" style="max-width: 100%;">
-  
- <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" style="max-width: 100%;">
+<img align="center" alt="Bruno-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" style="max-width: 100%;">
   
 </div>
 
