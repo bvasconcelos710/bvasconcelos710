@@ -6,11 +6,11 @@
 
 #### Sobre mim
 
-📌 Atualmente estou cursando o 4º período de Análise e Desenvolvimento de Sistemas no IFPB, campus de Cajazeiras/PB.
+📌 Atualmente estou cursando o 5º período de Análise e Desenvolvimento de Sistemas no IFPB, campus de Cajazeiras/PB.
 
-📌 Áreas de interesse: HTML, CSS, Javascript e Java
+📌 Áreas de interesse: HTML, CSS, JavaScript, TypeScript e Java.
 
-📌 Estudando no momento: Java, Spring Boot, Node.js, Express, Bancos de dados (Postgree, MySQL, MongoDB, etc)
+📌 Estudando no momento:React, TypeScript, Java, Spring Boot, Node.js, Express, Bancos de dados (Postgree, MySQL, MongoDB, etc)
 
 ## Tecnologias utilizadas     
 <div>    
